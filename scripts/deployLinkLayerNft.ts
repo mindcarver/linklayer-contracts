@@ -9,5 +9,5 @@ export async function run(provider: NetworkProvider) {
 
     await provider.waitForDeploy(linkLayerNft.address);
 
-    // run methods on `linkLayerNft`
+    // run methods on `linkLayerNft` 
 }
