@@ -2,5 +2,5 @@ import { CompilerConfig } from '@ton/blueprint';
 
 export const compile: CompilerConfig = {
     lang: 'func',
-    targets: ['contracts/nft-collection.fc'],
+    targets: ['contracts/link_layer_nft.fc'],
 };
